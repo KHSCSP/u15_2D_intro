@@ -8,11 +8,10 @@ emojis = [
 ]
 
 print("\nprinting one item")
-print(emojis[0][3])
+# TODO
 
 print("\nchanging one item")
-emojis[0][0] = "📌"
-print(emojis)
+# TODO
 
 
 print("\nwhat is this?")

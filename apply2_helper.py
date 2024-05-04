@@ -16,7 +16,7 @@ def find_total(lst):
 
 
 def find_minimum(lst):
-    ans = 10000
+    ans = lst[0]
     ans_index = 0
     for i in range(len(lst)):
         if lst[i] < ans:
