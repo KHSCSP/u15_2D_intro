@@ -1,6 +1,6 @@
 import random
 
-# given a 2D list and a minimum and maximum value
+# given a number of rows and columns and a minimum and maximum value
 # return a list with those characteristics
 def randomize(num_rows, num_columns, minimum, maximum):
     pass
@@ -27,6 +27,4 @@ def find_min(lst):
 
 
 
-# ---- challenge! ----
-# create this list using loops:
-# [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+
