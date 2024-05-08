@@ -20,3 +20,8 @@ one = ['a', 'b', 'c']
 two = [42, 13, True]
 # TODO
 # print(nums4)
+
+
+# try this: use .append on ‘one’ or ‘two’
+# then print ‘nums4’ again. Does ‘nums4’ also change?
+# TODO
